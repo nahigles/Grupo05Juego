@@ -1,0 +1,13 @@
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\bin\Debug\netcoreapp3.1\Practica4MAP.exe
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\bin\Debug\netcoreapp3.1\Practica4MAP.deps.json
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\bin\Debug\netcoreapp3.1\Practica4MAP.runtimeconfig.json
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\bin\Debug\netcoreapp3.1\Practica4MAP.runtimeconfig.dev.json
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\bin\Debug\netcoreapp3.1\Practica4MAP.dll
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\bin\Debug\netcoreapp3.1\Practica4MAP.pdb
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.csprojAssemblyReference.cache
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.AssemblyInfoInputs.cache
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.AssemblyInfo.cs
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.csproj.CoreCompileInputs.cache
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.dll
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.pdb
+C:\Users\n4yuk\OneDrive\Documentos\Universidad\1\MAP\Práctica4\Grupo05\Practica4MAP\Practica4MAP\obj\Debug\netcoreapp3.1\Practica4MAP.genruntimeconfig.cache
